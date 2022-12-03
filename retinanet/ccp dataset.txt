@@ -1,0 +1,6 @@
+ccp
+
+total 938 images +62
+train 650/553
+val 150
+test 138
