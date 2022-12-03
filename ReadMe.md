@@ -1,7 +1,7 @@
 
-# This is a PyTorch implementation of modified RetinaNet for Pothole Detection
+# A PyTorch implementation of modified RetinaNet for Pothole Detection
 
-## During the implementation I referred the Pytorch implemntation of RetinNet by yhenon/pytorch-retinanet
+### During the implementation I referred the Pytorch implemntation of RetinNet by yhenon/pytorch-retinanet
 
 To start training run the following command
 
